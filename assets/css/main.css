@@ -32,9 +32,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background:rgba(255,255,255,0.4) none repeat scroll 0 0 !important;
-    filter:alpha(opacity=40);
-    background:#fff;
     
 }
 nav ul, footer ul {
