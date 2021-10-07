@@ -1,6 +1,4 @@
-body {
-    margin: 60px auto;
-    width: 70%;
+.demo{
     position:fixed;
 
                 top: 0;
@@ -30,6 +28,11 @@ body {
                 -o-background-size: cover;
 
                 background-position: center 0;
+}
+body {
+    margin: 60px auto;
+    width: 70%;
+    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
